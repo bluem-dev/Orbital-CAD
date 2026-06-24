@@ -29,6 +29,8 @@ ___
 | `orbital-meta` | v1.0.0 | Escritura de metadata (M4A, AAC, FLAC) |
 | `orbital-probe` | v2.0.0 | Inspección de códec, sample rate, canales |
 
+- Añadido soporte de formatos abandonados por TIDAL: MQA, 360 RA.
+
 ___
 
 Aethra™, NX Orbital™, Lyra™, Orbital CAD™, Oria™ are part of an ecosystem software developed by BDEV.

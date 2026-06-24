@@ -34,5 +34,3 @@ ___
 ___
 
 Aethra™, NX Orbital™, Lyra™, Orbital CAD™, Oria™ are part of an ecosystem software developed by BDEV.
-
-Copyright © 2026 BDEV. All rights reserved.

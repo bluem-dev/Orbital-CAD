@@ -1,5 +1,5 @@
 # Orbital CAD™
-Versión: ?.?.?<br>
+Versión: 0.2.0<br>
 Estado: en desarrollo.<br>
 Resultados: funcionando.<br>
 
@@ -23,23 +23,11 @@ ___
 
 | Binario | Versión | Función |
 |---|---|---|
-| `orbital-flac` | v2.3.0 | Validación MD5 e integridad FLAC |
-| `orbital-joc` | v1.4.0 | Análisis Dolby Atmos — JOC, OAMD, objetos |
-| `orbital-remux` | v1.1.0 | Remux FLAC/M4A |
-| `orbital-meta` | — | Escritura de metadata (M4A, FLAC) |
-| `orbital-probe` | v1.1.0 | Inspección de códec, sample rate, canales |
-
-</details>
-
-<details>
-<summary><strong>Orbital CAD ++</strong></summary>
-
-| Binario | Versión | Función |
-|---|---|---|
-| `orbital-ac4-probe` | — | Inspección de códec, sample rate, canales, atmos |
-| `orbital-ac4-decoder` | — | Dec & Play > AC-4 Dolby Atmos |
-
-</details>
+| `orbital-flac` | v2.3.1 | Validación MD5 e integridad FLAC + MQA |
+| `orbital-joc` | v1.4.0 | Análisis Dolby Atmos — JOC, OAMD, objetos (E-AC-3, AC-4) |
+| `orbital-remux` | v1.3.0 | Remux FLAC/M4A |
+| `orbital-meta` | v1.0.0 | Escritura de metadata (M4A, AAC, FLAC) |
+| `orbital-probe` | v2.0.0 | Inspección de códec, sample rate, canales |
 
 ___
 
